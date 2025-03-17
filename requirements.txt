@@ -1,4 +1,5 @@
 Flask==2.3.2
+gunicorn==20.1.0
 Flask-Cors==3.0.10
 PyJWT==2.8.0
 google-auth==2.22.0
